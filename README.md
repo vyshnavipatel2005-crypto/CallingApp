@@ -27,6 +27,3 @@ app-debug.apk
 * app/ → main application code
 * res/ → layouts and UI
 * AndroidManifest.xml → app configuration
-
-## Author
-Puppala Vyshnavi
