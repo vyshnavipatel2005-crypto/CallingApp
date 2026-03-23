@@ -30,5 +30,3 @@ app-debug.apk
 
 ## Author
 Puppala Vyshnavi
-
-Your Name
